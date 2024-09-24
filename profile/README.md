@@ -3,7 +3,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&family=Lato&display=swap" rel="stylesheet">
 </head>
 <div align="center">
-  <img src="img/logo_black.png" alt="LML Logo" width="100" height="100">
+  <img src="../img/logo_black.png" alt="LML Logo" width="100" height="100">
   <h1 style="font-family: 'Playfair Display', serif; font-size: 5em; margin-top: 10px;">
     Learning Model of Life
   </h1>
@@ -23,6 +23,6 @@ Founded in 2024, we are cross-college initiative of The University of Edinburgh.
 <br />
 <br />
 <div align="center">
-  <img src="img/uoe_logo.png" alt="UoE Logo" width="300">
+  <img src="../img/uoe_logo.png" alt="UoE Logo" width="300">
 </div>
 

@@ -18,11 +18,5 @@ The Learning Model of Life is an inter-disciplinary initiative to develop an aut
 <div align="left" style="font-family: 'Lato', sans-serif; font-size: 16px;">
 Founded in 2024, we are cross-college initiative of The University of Edinburgh. We are a constituent of the University's Generative AI Lab (GAIL) and are supported by <a href="https://www.epcc.ed.ac.uk">EPCC</a>, the UK's leading centre of Supercomputing and Data Science.
 </div>
-<br />
-<br />
-<br />
-<br />
-<div align="center">
-  <img src="../img/uoe_logo.png" alt="UoE Logo" width="300">
-</div>
+
 

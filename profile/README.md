@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-  <img src="/img/logo_black.png" alt="LML Logo" width="100" height="100">
+  <img src="https://github.com/learningmodeloflife/shared-files/blob/main/logo/svg/LML_logo.svg" alt="LML Logo" width="100" height="100">
   <h1>
     Learning Model of Life
   </h1>

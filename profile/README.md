@@ -1,6 +1,10 @@
 <br />
 <div align="center">
-  <img src="https://github.com/learningmodeloflife/shared-files/blob/main/logo/svg/LML_logo.svg" alt="LML Logo" width="100" height="100">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/learningmodeloflife/shared-files/blob/main/logo/svg/LML_logo_cream.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/learningmodeloflife/shared-files/blob/main/logo/svg/LML_logo.svg">
+    <img alt="LML Logo" width="100" height="100"src="https://github.com/learningmodeloflife/shared-files/blob/main/logo/svg/LML_logo_cream.svg">
+  </picture>
   <h1>
     Learning Model of Life
   </h1>

@@ -1,22 +1,23 @@
 <br />
-<head>
-  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&family=Lato&display=swap" rel="stylesheet">
-</head>
 <div align="center">
-  <img src="../img/logo_black.png" alt="LML Logo" width="100" height="100">
-  <h1 style="font-family: 'Playfair Display', serif; font-size: 5em; margin-top: 10px;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/learningmodeloflife/shared-files/blob/main/img/logo/svg/LML_logo_cream.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/learningmodeloflife/shared-files/blob/main/img/logo/svg/LML_logo.svg">
+    <img alt="LML Logo" width="100" height="100"src="https://github.com/learningmodeloflife/shared-files/tree/blob/img/logo/svg/LML_logo.svg">
+  </picture>
+  <h1>
     Learning Model of Life
   </h1>
 </div>
 <br />
 <br />
-<div align="left" style="font-family: 'Lato', sans-serif; font-size: 16px;">
+<div align="left">
 The Learning Model of Life is an inter-disciplinary initiative to develop an autonomously-learning computational model of life.
 </div>
 <br />
 <br />
-<div align="left" style="font-family: 'Lato', sans-serif; font-size: 16px;">
-Founded in 2024, we are cross-college initiative of The University of Edinburgh. We are a constituent of the University's Generative AI Lab (GAIL) and are supported by <a href="https://www.epcc.ed.ac.uk">EPCC</a>, the UK's leading centre of Supercomputing and Data Science.
+<div align="left">
+Founded in 2024, we are a cross-college initiative of The University of Edinburgh, a constituent of the University's Generative AI Lab (GAIL), and supported by <a href="https://www.epcc.ed.ac.uk">EPCC</a>, the UK's leading centre of Supercomputing and Data Science.
 </div>
 
 

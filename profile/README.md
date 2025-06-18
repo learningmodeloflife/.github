@@ -12,12 +12,8 @@
 <br />
 <br />
 <div align="left">
-The Learning Model of Life is an inter-disciplinary initiative to develop an autonomously-learning computational model of life.
+The Learning Model of Life was conceived as an inter-disciplinary initiative to develop an autonomously-learning computational model of life. The resources we generated are freely available here for anyone who wants them. 
 </div>
 <br />
-<br />
-<div align="left">
-Founded in 2024, we are a cross-college initiative of The University of Edinburgh, a constituent of the University's Generative AI Lab (GAIL), and supported by <a href="https://www.epcc.ed.ac.uk">EPCC</a>, the UK's leading centre of Supercomputing and Data Science.
-</div>
 
 
